@@ -13,14 +13,14 @@
 
 <br />
 
-### Demo Screeshots
+### Demonstração
 
 ![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://www.twitter.com/IanMelw).
 
-### License
+### Licença
 
-This project is **free to use** and does not contains any license.
+Este projeto é **de uso gratuito** e não contém nenhuma licença.

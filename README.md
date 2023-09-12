@@ -7,7 +7,7 @@
 
   Site de portfólio pessoal totalmente responsivo, <br />responsivo para todos os dispositivos, construído em HTML, CSS e JavaScript.
 
-  <a href="https://ichumbo.github.io/Portfolio-iChumbo/"><strong>➥ Demonstração</strong></a>
+  <a href="https://ichumbo.github.io/Portfolio-Template/"><strong>➥ Demonstração</strong></a>
 
 </div>
 
